@@ -1,0 +1,20 @@
+{
+    "require": {
+        "monolog/monolog": "^3.12",
+        "ext-xml": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "poppbook\\megaquiz\\": ["src", "test"]
+        }
+    },
+    "name": "poppbook/megaquiz",
+    "description": "a truly mega quiz",
+    "authors": [
+        {
+            "name": "matt zandstra",
+            "email": "matt@gmail.com"
+        }
+    ]
+}
+
